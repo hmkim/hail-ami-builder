@@ -1,2 +1,4 @@
-# hail-ami-builder
-use packer
+
+# ReadMe
+
+Starting -> Waiting EMR duration: about 15 min 
